@@ -131,9 +131,7 @@
 > This explains why in Question 14, C was true (2 == ‘2’) and D was false (2 === ‘2’).
 
 
-# Question 16:
-!!!!other file!!!!
-
+# [Question 16](https://github.com/sahildadhwal/fa22-cse110-lab4/blob/main/expose/javascript/part2-question16.js)
 
 # Question 17:
     - If the function above is called with the following parameters modifyArray([1,2,3], doSomething), the result will be [2,4,6].
@@ -144,8 +142,7 @@
 > The function doSomething just multiplies the input by 2. So, the value that is pushed into newArray is just the current element times 2.
 > Therefore, since the input is [1,2,3], the newArray that is returned will have each element multiplied by 2. So, [2, 4, 6]
 
-# Question 18:
-!!!!other file!!!!
+# [Question 18](https://github.com/sahildadhwal/fa22-cse110-lab4/blob/main/expose/javascript/part2-question18.js)
 
 # Question 19:
 > 1
